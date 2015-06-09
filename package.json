@@ -1,0 +1,25 @@
+{
+  "name": "hubot-game-idea",
+  "version": "1.0.0",
+  "description": "A hubot script for getting random game ideas.",
+  "main": "index.coffee",
+  "dependencies": {
+    "handlebars": "^3.0.3",
+    "indefinite-article": "^0.0.2",
+    "lodash": "^3.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fcingolani/hubot-game-idea.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot",
+    "gamdedev"
+  ],
+  "author": "Federico Cingolani",
+  "license": "MIT"
+}
